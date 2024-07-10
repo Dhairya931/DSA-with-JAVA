@@ -1,4 +1,4 @@
-//Q Search a character in the string
+//Q Search a character in the string.
 package Linear_Search;
 public class SearchInString {
     public static void main(String[] args) {

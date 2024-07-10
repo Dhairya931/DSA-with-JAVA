@@ -3,7 +3,7 @@
 Worst case:O(n),means for searching element it has to iterate the whole array
 Best case:O(1),means the element needed is pn 1st place of the array
  */
-//Q.Search an element in array to demonstrate linear search
+//Q.Search an element in array to demonstrate linear search.
 package Linear_Search;
 import java.util.Scanner;
 public class Basics {
